@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/save-christmas/static/css/main.ffe34ec7.css",
-    "main.js": "/save-christmas/static/js/main.2916ad43.js",
+    "main.js": "/save-christmas/static/js/main.bdb213ff.js",
     "index.html": "/save-christmas/index.html",
     "main.ffe34ec7.css.map": "/save-christmas/static/css/main.ffe34ec7.css.map",
-    "main.2916ad43.js.map": "/save-christmas/static/js/main.2916ad43.js.map"
+    "main.bdb213ff.js.map": "/save-christmas/static/js/main.bdb213ff.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe34ec7.css",
-    "static/js/main.2916ad43.js"
+    "static/js/main.bdb213ff.js"
   ]
 }
